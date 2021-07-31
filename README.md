@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Roachcake
+- 👀 interested in game development.
+- 🌱 currently learning how to develop games.
+- 💞️ looking to collaborate on making games.
+- 📫 You can find me on the Core discord channel 
